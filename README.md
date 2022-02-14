@@ -59,5 +59,5 @@ I struggled with the background image in the body - I am not sure I like how it 
 
 ## Acknowledgments
 
-Huge thank you to [PhoenixDev22] (https://www.frontendmentor.io/profile/PhoenixDev22) and [NaveenGumaste] (https://www.frontendmentor.io/profile/Crazimonk) for their super useful feedback on my last two projects.
+Huge thank you to [PhoenixDev22](https://www.frontendmentor.io/profile/PhoenixDev22) and [NaveenGumaste](https://www.frontendmentor.io/profile/Crazimonk) for their super useful feedback on my last two projects.
 
