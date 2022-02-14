@@ -35,7 +35,7 @@ Users should be able to:
 
 ### What I learned
 
-I am still new to HTML and CSS so I used this project to practise what I have learned about Semantic HTML, Flexbox and Grid. I have recieved some really useful feedback on my first two Frontend Mentor projects and I tried my best to implement some of those improvements in this design - for example, in this project I used aria-hidden="true" and null alt attribites to enable screen readers to skip over decorative images. I also used grid emplate areas for the first time and started working with REMS and EMS.
+I am still new to HTML and CSS so I used this project to practise what I have learned about Semantic HTML, Flexbox and Grid. I have recieved some really useful feedback on my first two Frontend Mentor projects and I tried my best to implement some of those improvements in this design - for example, in this project I used aria-hidden="true" and null alt attribites to enable screen readers to skip over decorative images. I also used grid template areas for the first time and started working with REMS and EMS.
 
 #### What am I most proud of?
 
