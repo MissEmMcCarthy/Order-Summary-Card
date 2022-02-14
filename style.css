@@ -1,5 +1,6 @@
 body{
     font-family: Red Hat Display, sans-serif;
+    background-color: hsl(225, 100%, 94%);
     box-sizing: border-box;
     padding: 0;
     margin:0;
